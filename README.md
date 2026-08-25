@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shanvikesarwani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Shanvikesarwani/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/Shanvikesarwani/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/Shanvikesarwani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shanvikesarwani/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Shanvikesarwani/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
