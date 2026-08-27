@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shanvikesarwani/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Shanvikesarwani/LeetCode/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shanvikesarwani/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0976-largest-perimeter-triangle](https://github.com/Shanvikesarwani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shanvikesarwani/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shanvikesarwani/LeetCode/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/Shanvikesarwani/LeetCode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Shanvikesarwani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Shanvikesarwani/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shanvikesarwani/LeetCode/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
