@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shanvikesarwani/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Shanvikesarwani/LeetCode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Shanvikesarwani/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Shanvikesarwani/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shanvikesarwani/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Shanvikesarwani/LeetCode/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/Shanvikesarwani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Shanvikesarwani/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Shanvikesarwani/LeetCode/tree/master/0242-valid-anagram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shanvikesarwani/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
