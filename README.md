@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shanvikesarwani/LeetCode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Shanvikesarwani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Shanvikesarwani/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Shanvikesarwani/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/Shanvikesarwani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shanvikesarwani/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shanvikesarwani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Shanvikesarwani/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Shanvikesarwani/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/Shanvikesarwani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1096-brace-expansion-ii](https://github.com/Shanvikesarwani/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Shanvikesarwani/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Shanvikesarwani/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Shanvikesarwani/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shanvikesarwani/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1096-brace-expansion-ii](https://github.com/Shanvikesarwani/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shanvikesarwani/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shanvikesarwani/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shanvikesarwani/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/Shanvikesarwani/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shanvikesarwani/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Stack
 |  |
@@ -132,4 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shanvikesarwani/LeetCode/tree/master/0062-unique-paths) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shanvikesarwani/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shanvikesarwani/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shanvikesarwani/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
