@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shanvikesarwani/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Shanvikesarwani/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shanvikesarwani/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/Shanvikesarwani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shanvikesarwani/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shanvikesarwani/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shanvikesarwani/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Shanvikesarwani/LeetCode/tree/master/0062-unique-paths) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shanvikesarwani/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shanvikesarwani/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Shanvikesarwani/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shanvikesarwani/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shanvikesarwani/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -176,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shanvikesarwani/LeetCode/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shanvikesarwani/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shanvikesarwani/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
