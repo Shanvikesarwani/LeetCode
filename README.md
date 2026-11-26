@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shanvikesarwani/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Shanvikesarwani/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0867-transpose-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shanvikesarwani/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/Shanvikesarwani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shanvikesarwani/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shanvikesarwani/LeetCode/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Shanvikesarwani/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0867-transpose-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0867-transpose-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shanvikesarwani/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
