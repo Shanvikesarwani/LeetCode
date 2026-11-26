@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shanvikesarwani/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Shanvikesarwani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Shanvikesarwani/LeetCode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Shanvikesarwani/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Shanvikesarwani/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shanvikesarwani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shanvikesarwani/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shanvikesarwani/LeetCode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Shanvikesarwani/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Shanvikesarwani/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0766-toeplitz-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -198,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Shanvikesarwani/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Shanvikesarwani/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
